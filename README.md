@@ -10,6 +10,7 @@ Este projeto foi desenvolvido com o objetivo de analisar dados de vendas, identi
 
 📁 Fonte de dados:
 Dataset público retirado do Kaggle
+
 🔗 Link: (https://www.kaggle.com/datasets/abrahamkevan/supermarket-sales?utm_source=chatgpt.com)
 
 🎯 Objetivo do Projeto
