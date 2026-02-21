@@ -27,8 +27,9 @@ Dataset público retirado do Kaggle
 - Tableau
 - Python 
 - Git / GitHub
+  
 
-- 📈 Entrega 1: Diagnóstico de Saúde e Temporalidade
+📈 Entrega 1: Diagnóstico de Saúde e Temporalidade
   
 🎯 Foco: Analisar volume de vendas e lucratividade ao longo do tempo.
 
