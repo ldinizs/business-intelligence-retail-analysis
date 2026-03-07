@@ -39,5 +39,5 @@ Esta análise foca no comportamento temporal do negócio, correlacionando o cres
 💡 **Insight Estratégico**
 > O dashboard possibilita identificar períodos de maior crescimento e momentos de retração na lucratividade. Ele apoia a tomada de decisão estratégica ao indicar quando o negócio performa melhor e onde ajustes são necessários para garantir que o aumento de vendas resulte em ganho real de lucro.
 * 🚀 **Dashboard Interativo**: [Visualize no Tableau Public](https://public.tableau.com/views/DASHBOARDBUSINESSANALYSIS/SalesandProfitTrends?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-
+* 🎥 Vídeo de apresentação: [Clique aqui](https://www.canva.com/design/DAHDT8U-iJo/eBben5biyoPC-WH-2jCrRg/watch?utm_content=DAHDT8U-iJo&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h4c00c9330f)
 ---
