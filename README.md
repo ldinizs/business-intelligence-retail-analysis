@@ -16,7 +16,7 @@ Este projeto de **BI** foi desenvolvido para analisar o desempenho estratégico 
 O projeto é composto por 4 etapas analíticas complementares:
 
 * ✔️ **Entrega 1**: Tendências de Vendas, Lucro e Sazonalidade.
-* ✔️ **Entrega 2**: Rentabilidade por Categoria e Subcategoria.
+* ⏳ **Entrega 2**: Rentabilidade por Categoria e Subcategoria.
 * ⏳ **Entrega 3**: Rentabilidade Geográfica (Mapa de Calor por Estado).
 * ⏳ **Entrega 4**: Market Share e Regionalidade.
 
