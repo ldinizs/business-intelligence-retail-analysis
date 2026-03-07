@@ -1,50 +1,40 @@
+# 📊 Business Intelligence: Retail Analysis Project
 
-Projeto de Business Intelligence aplicado a dados de vendas.
+Este projeto de **BI** foi desenvolvido para analisar o desempenho estratégico de uma operação de varejo entre os anos de **2014 e 2017**. O foco é transformar dados brutos em inteligência acionável, monitorando KPIs de vendas e lucratividade.
 
-📊 Análise Estratégica de Vendas – Projeto de Business Intelligence
+---
 
-📌 Contexto
-Empresas do setor varejista enfrentam desafios relacionados à sazonalidade, 
-margem de lucro, política de descontos e variações regionais de desempenho.
-
-Este projeto foi desenvolvido com o objetivo de analisar dados de vendas, identificar padrões de lucratividade e possibilitar a geração insights estratégicos para tomada de decisão.
-
-📁 Fonte de dados:
-Dataset público retirado do Kaggle
-
-🔗 Link: (https://www.kaggle.com/datasets/abrahamkevan/supermarket-sales?utm_source=chatgpt.com)
-
-🎯 Objetivo do Projeto
-
-- O lucro acompanha o crescimento das vendas ao longo do tempo?
-- O negócio apresenta sazonalidade?
-- Quais categorias e subcategorias são mais lucrativas?
-- Existe diferença de performance entre regiões?
-- Qual o perfil do cliente mais relevante para o negócio?
+## 🛠️ Stack Tecnológica
+* 🖼️ **Tableau Public**: Plataforma utilizada para a criação de todos os dashboards interativos e visualizações de dados.
+* 🐍 **Python**: Manipulação e tratamento da base de dados.
+* 📁 **Git/GitHub**: Controle de versão e documentação do projeto.
+* 💾 **Dataset Original**: [Fonte de dados pública (Kaggle)](https://www.kaggle.com/datasets/abrahamkevan/supermarket-sales).
   
-🛠 Tecnologias Utilizadas
+---
 
-- Tableau
-- Python 
-- Git / GitHub
-  
+## 📑 Estrutura das Entregas
+O projeto é composto por 4 etapas analíticas complementares:
 
-📈 Entrega 1: Diagnóstico de Saúde e Temporalidade
-  
-🎯 Foco: Analisar volume de vendas e lucratividade ao longo do tempo.
+* ✔️ **Entrega 1**: Tendências de Vendas, Lucro e Sazonalidade.
+* ✔️ **Entrega 2**: Rentabilidade por Categoria e Subcategoria.
+* ⏳ **Entrega 3**: Rentabilidade Geográfica (Mapa de Calor por Estado).
+* ⏳ **Entrega 4**: Market Share e Regionalidade.
 
-📊 1. Visão
+---
 
-O dashboard apresenta a evolução de Sales (Vendas) e Profit (Lucro) ao longo do tempo (2014 a 2017), com detalhamento trimestral. Também exibe as variações percentuais entre períodos, permitindo acompanhar o desempenho do negócio de forma visual e comparativa.
-________________________________________
-📈 2. Análise
+## 🔍 Detalhamento: Entrega 1
+### *Tendências de Vendas, Lucro e Sazonalidade*
 
-Através dos gráficos, é possível identificar tendências de crescimento ou queda, sazonalidade entre trimestres e diferenças de desempenho entre os anos. A comparação entre vendas e lucro permite avaliar se o aumento nas vendas está sendo convertido em rentabilidade.
-________________________________________
-💡 3. Insight
+Esta análise foca no comportamento temporal do negócio, correlacionando o crescimento do volume de vendas com a variação real do lucro líquido.
 
-O dashboard possibilita identificar períodos de maior crescimento, momentos de retração e oportunidades de melhoria na lucratividade. Ele apoia a tomada de decisão estratégica ao indicar quando o negócio está performando melhor e onde ajustes podem ser necessários.
+#### 📈 Análise dos Dados
+* 📅 **Sazonalidade (T4)**: Identifica-se um padrão de pico no quarto trimestre de cada ano, com o faturamento recorde de **R$ 280K** no T4 de 2017.
+* 📉 **Descompasso Vendas vs. Lucro**: No T3 de 2016, as vendas cresceram **5,66%**, mas o lucro caiu **-3,46%**, indicando uma redução de margem nesse período.
+* 🚀 **Recuperação de Performance**: O T4 de 2016 foi o período de maior eficiência na variação de lucro, registrando uma alta de **141,03%**.
+* 📊 **Volume Anual**: Nota-se uma tendência de crescimento sustentado, com as vendas subindo de R$ 180K (final de 2014) para R$ 280K (final de 2017).
 
-🔗 Link para acessar a análise: https://public.tableau.com/views/DASHBOARDBUSINESSANALYSUS_17717064524200/DASH?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+💡 **Insight Estratégico**
+> O dashboard possibilita identificar períodos de maior crescimento e momentos de retração na lucratividade. Ele apoia a tomada de decisão estratégica ao indicar quando o negócio performa melhor e onde ajustes são necessários para garantir que o aumento de vendas resulte em ganho real de lucro.
+* 🚀 **Dashboard Interativo**: [Visualize no Tableau Public](https://public.tableau.com/views/DASHBOARDBUSINESSANALYSIS/SalesandProfitTrends?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-🔗 Link para acessar o vídeo:
+---
