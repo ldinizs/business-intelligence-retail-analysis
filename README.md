@@ -25,6 +25,9 @@ O projeto é composto por 4 etapas analíticas complementares:
 ## 🔍 Detalhamento: Entrega 1
 ### *Tendências de Vendas, Lucro e Sazonalidade*
 
+<img width="1821" height="814" alt="image" src="https://github.com/user-attachments/assets/e935c532-9204-466f-bf5f-a657e25d9f3e" />
+
+
 Esta análise foca no comportamento temporal do negócio, correlacionando o crescimento do volume de vendas com a variação real do lucro líquido.
 
 #### 📈 Análise dos Dados
