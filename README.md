@@ -41,3 +41,22 @@ Esta análise foca no comportamento temporal do negócio, correlacionando o cres
 * 🚀 **Dashboard Interativo**: [Visualize no Tableau Public](https://public.tableau.com/views/DASHBOARDBUSINESSANALYSIS/SalesandProfitTrends?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 * 🎥 Vídeo de apresentação: [Clique aqui](https://www.canva.com/design/DAHDT8U-iJo/eBben5biyoPC-WH-2jCrRg/watch?utm_content=DAHDT8U-iJo&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h4c00c9330f)
 ---
+## 🔍 Detalhamento: Entrega 2
+### *Rentabilidade por Categoria e Subcategoria*
+
+<img width="1316" height="668" alt="image" src="https://github.com/user-attachments/assets/3317ce2e-bca4-4d7b-90a4-5c295a961713" />
+
+
+Esta visão detalha a performance financeira do mix de produtos, permitindo identificar quais itens sustentam a margem do negócio e quais geram prejuízo operacional.
+
+#### 📈 Análise dos Dados
+* 🏆 **Subcategoria Estrela (Copiers)**: As Copiadoras demonstram lucratividade excepcional, atingindo o pico de **R$ 25.031,79** de lucro no ano de 2017.
+* 📈 **Consistência em Phones e Accessories**: Mantêm lucros sólidos ano após ano, com os Telefones gerando **R$ 12.849,33** em 2017, consolidando-se como itens essenciais para o fluxo de caixa.
+* ⚠️ **Ponto Crítico (Tables)**: A subcategoria de Mesas (Tables) apresenta um gargalo financeiro constante, encerrando 2017 com prejuízo de **-R$ 8.140,69**.
+* 📉 **Oscilações em Machines**: Apresenta alta volatilidade, registrando lucro negativo em 2017 (**-R$ 2.869,22**), o que exige revisão na estratégia de fornecedores.
+
+💡 **Insight Estratégico**
+> Este dashboard identifica quais produtos trazem retorno e quais "corroem" a margem. O insight aponta para a necessidade urgente de reposicionar ou descontinuar a linha de **Tables** (Mesas), enquanto o investimento deve ser priorizado para **Copiers** (Copiadoras), devido à sua alta eficiência.
+* 🚀 **Dashboard Interativo**: [Visualize no Tableau Public](https://public.tableau.com/views/DASHBOARDBUSINESSANALYSIS2/ProfitabillybyCategory?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+---
