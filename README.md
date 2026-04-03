@@ -44,7 +44,7 @@ Esta análise foca no comportamento temporal do negócio, correlacionando o cres
 ## 🔍 Detalhamento: Entrega 2
 ### *Rentabilidade por Categoria e Subcategoria*
 
-<img width="1316" height="668" alt="image" src="https://github.com/user-attachments/assets/3317ce2e-bca4-4d7b-90a4-5c295a961713" />
+<img width="1707" height="678" alt="image" src="https://github.com/user-attachments/assets/fef71cae-93a8-44e9-b520-2632b18bd213" />
 
 
 Esta visão detalha a performance financeira do mix de produtos, permitindo identificar quais itens sustentam a margem do negócio e quais geram prejuízo operacional.
