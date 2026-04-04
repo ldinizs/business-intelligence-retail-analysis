@@ -58,5 +58,5 @@ Esta visão detalha a performance financeira do mix de produtos, permitindo iden
 💡 **Insight Estratégico**
 > Este dashboard identifica quais produtos trazem retorno e quais "corroem" a margem. O insight aponta para a necessidade urgente de reposicionar ou descontinuar a linha de **Tables** (Mesas), enquanto o investimento deve ser priorizado para **Copiers** (Copiadoras), devido à sua alta eficiência.
 * 🚀 **Dashboard Interativo**: [Visualize no Tableau Public](https://public.tableau.com/views/DASHBOARDBUSINESSANALYSIS2/ProfitabillybyCategory?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-
+* 🎥 Vídeo de apresentação: [Clique aqui](https://canva.link/42h2u05am68b1e6)
 ---
