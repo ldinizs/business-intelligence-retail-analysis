@@ -76,4 +76,5 @@ Mapeamento de desempenho por estado para identificação de áreas deficitárias
 💡 **Insight Estratégico**
 > O mapa revela problemas estruturais em estados específicos do Sul e Centro-Oeste. A estratégia deve focar na revisão de custos logísticos ou tributários nestas áreas para reverter o cenário de prejuízo.
 * 🚀 **Dashboard Interativo**: [Visualize no Tableau Public](https://public.tableau.com/views/DASHBOARDBUSINESSANALYSIS3/DASH3?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+* * 🎥 Vídeo de apresentação: [https://canva.link/hyu9i2b1q02x3p5]
 ---
