@@ -64,6 +64,8 @@ Esta visão detalha a performance financeira do mix de produtos, permitindo iden
 ## 🔍 Detalhamento: Entrega 3
 ### *Rentabilidade Geográfica (Mapa de Calor)*
 
+<img width="1851" height="753" alt="image" src="https://github.com/user-attachments/assets/9f4999bc-b48b-44c5-a824-af46513a5879" />
+
 Mapeamento de desempenho por estado para identificação de áreas deficitárias e oportunidades regionais.
 
 #### 📈 Análise dos Dados
