@@ -60,3 +60,18 @@ Esta visão detalha a performance financeira do mix de produtos, permitindo iden
 * 🚀 **Dashboard Interativo**: [Visualize no Tableau Public](https://public.tableau.com/views/DASHBOARDBUSINESSANALYSIS2/ProfitabillybyCategory?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 * 🎥 Vídeo de apresentação: [Clique aqui](https://canva.link/42h2u05am68b1e6)
 ---
+
+## 🔍 Detalhamento: Entrega 3
+### *Rentabilidade Geográfica (Mapa de Calor)*
+
+Mapeamento de desempenho por estado para identificação de áreas deficitárias e oportunidades regionais.
+
+#### 📈 Análise dos Dados
+* 🗺️ **Zonas de Prejuízo**: Estados como **Texas (-15,12%)**, **Illinois (-15,73%)**, **Pennsylvania (-21,69%)** e **Ohio (-17,42%)** operam com margens negativas preocupantes.
+* 🟢 **Destaques Positivos**: Estados como **New York (35,77%)** e **Washington (32,80%)** sustentam as melhores margens de lucro.
+* 💰 **Volume Regional**: A região **East** atingiu o maior faturamento anual em 2017, somando **R$ 213,1K**.
+
+💡 **Insight Estratégico**
+> O mapa revela problemas estruturais em estados específicos do Sul e Centro-Oeste. A estratégia deve focar na revisão de custos logísticos ou tributários nestas áreas para reverter o cenário de prejuízo.
+* 🚀 **Dashboard Interativo**: [Visualize no Tableau Public](https://public.tableau.com/views/DASHBOARDBUSINESSANALYSIS3/DASH3?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+---
