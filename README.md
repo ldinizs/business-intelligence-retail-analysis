@@ -3,13 +3,28 @@
 Este projeto de **BI** foi desenvolvido para analisar o desempenho estratégico de uma operação de varejo entre os anos de **2014 e 2017**. O foco é transformar dados brutos em inteligência acionável, monitorando KPIs de vendas e lucratividade.
 
 ---
+## 📐 Modelagem de Dados (MER)
 
+Embora as etapas de engenharia e preparação de dados utilizem uma arquitetura unificada e desnormalizada (tabela única) presente no arquivo `Data Source.xlsx` para otimização de performance e simplificação da leitura no Tableau, a arquitetura analítica lógica do negócio foi estruturada seguindo o padrão **Star Schema (Esquema Estrela)**. 
+
+Essa modelagem dimensional é fundamental para garantir a flexibilidade das consultas, o cálculo eficiente das métricas e o suporte completo às visões analíticas do projeto.
+
+<p align="center">
+  <img width="1408" height="578" alt="image" src="https://github.com/user-attachments/assets/b25928ae-0ed7-4b5c-8e97-41f8fac05082" />
+ alt="Modelo de Entidade Relacionamento - Star Schema" width="100%">
+</p>
+
+### Dicionário Lógico do Modelo:
+*   **FATO_VENDAS:** Tabela central que consolida as chaves estrangeiras de relacionamento e armazena os eventos quantitativos e financeiros (`Sales`, `Quantity`, `Discount`, `Profit`).
+*   **DIM_PRODUTO:** Agrupa os atributos de granularidade dos produtos para responder à análise de categorias e subcategorias.
+*   **DIM_CLIENTE:** Contém as características e os perfis comportamentais/segmentos dos consumidores.
+*   **DIM_LOCALIZACAO:** Consolida os dados geográficos necessários para alimentar as visões de mapas e a performance regional no dashboard.
+*   **DIM_TEMPO:** Dimensão calendário gerada a partir da data do pedido (`Order Date`), sendo indispensável para as análises históricas de sazonalidade e para a aplicação do modelo preditivo de tendências (*forecasting*).
 ## 🛠️ Stack Tecnológica
 * 🖼️ **Tableau Public**: Plataforma utilizada para a criação de todos os dashboards interativos e visualizações de dados.
 * 🐍 **Python**: Manipulação e tratamento da base de dados.
 * 📁 **Git/GitHub**: Controle de versão e documentação do projeto.
 * 💾 **Dataset Original**: [Fonte de dados pública (Kaggle)](https://www.kaggle.com/datasets/abrahamkevan/supermarket-sales).
-  
 ---
 
 ## 📑 Estrutura das Entregas
