@@ -82,6 +82,9 @@ Mapeamento de desempenho por estado para identificação de áreas deficitárias
 ## 🔍 Detalhamento: Entrega 4
 ### *Market Share e Regionalidade*
 
+<img width="1836" height="703" alt="image" src="https://github.com/user-attachments/assets/756d4c74-5ffb-4876-b444-3064243a5426" />
+
+
 Análise da composição da base de clientes e dominância regional.
 
 #### 📈 Análise dos Dados
