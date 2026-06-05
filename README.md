@@ -11,7 +11,7 @@ Essa modelagem dimensional é fundamental para garantir a flexibilidade das cons
 
 <p align="center">
   <img width="1408" height="578" alt="image" src="https://github.com/user-attachments/assets/b25928ae-0ed7-4b5c-8e97-41f8fac05082" />
- alt="Modelo de Entidade Relacionamento - Star Schema" width="100%">
+ 
 </p>
 
 ### Dicionário Lógico do Modelo:
