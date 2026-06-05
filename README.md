@@ -110,6 +110,7 @@ Análise da composição da base de clientes e dominância regional.
 💡 **Insight Estratégico**
 > Identifica a concentração de receita e eficiência por região. Recomenda-se replicar as práticas de sucesso da região **West** nas demais áreas para equilibrar a lucratividade global do negócio.
 * 🚀 **Dashboard Interativo**: [Visualize no Tableau Public](https://public.tableau.com/views/DASHBOARDBUSINESSANALYSIS4/DASH4?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+* 🎥 Vídeo de apresentação: [Clique aqui](https://www.canva.com/design/DAHLu52a9qc/XylOzvhjf4bIeCMwk1rVsQ/watch?utm_content=DAHLu52a9qc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hbd6baeb908)
 ---
 
 ## 🏁 Conclusão Geral
