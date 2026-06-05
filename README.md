@@ -78,3 +78,24 @@ Mapeamento de desempenho por estado para identificação de áreas deficitárias
 * 🚀 **Dashboard Interativo**: [Visualize no Tableau Public](https://public.tableau.com/views/DASHBOARDBUSINESSANALYSIS3/DASH3?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 * 🎥 Vídeo de apresentação: [Clique aqui](https://canva.link/hyu9i2b1q02x3p5)
 ---
+
+## 🔍 Detalhamento: Entrega 4
+### *Market Share e Regionalidade*
+
+Análise da composição da base de clientes e dominância regional.
+
+#### 📈 Análise dos Dados
+* 👥 **Segmentação**: O segmento **Consumer** detém a maior fatia do faturamento acumulado, totalizando **R$ 1.161,4K**.
+* 🌎 **Liderança Regional**: A região **West** consolidou-se como a principal geradora de receita, atingindo **R$ 107,1K** em 2017.
+* 📈 **Eficiência**: A região **West** apresenta o melhor *Profit Ratio* no segmento Consumer (**20,21%** em 2017), superando a média das outras regiões.
+
+💡 **Insight Estratégico**
+> Identifica a concentração de receita e eficiência por região. Recomenda-se replicar as práticas de sucesso da região **West** nas demais áreas para equilibrar a lucratividade global do negócio.
+* 🚀 **Dashboard Interativo**: [Visualize no Tableau Public](https://public.tableau.com/views/DASHBOARDBUSINESSANALYSIS4/DASH4?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+---
+
+## 🏁 Conclusão Geral
+Através desta análise de **Business Intelligence**, foi possível diagnosticar que o crescimento em volume de vendas nem sempre é acompanhado de forma proporcional pelo lucro. 
+A identificação de subcategorias deficitárias (como **Tables**) e estados com margens negativas (como **Texas**) oferece um roteiro claro para a otimização de custos e revisão de mix de produtos. Em contrapartida, a alta eficiência das **Copiadoras** e da região **West** representam os pilares de sucesso que devem ser escalados para garantir a sustentabilidade e expansão saudável do negócio nos próximos ciclos.
+
+---
